@@ -1,8 +1,6 @@
 # 🎧 Spotify Data Analysis using Python
 <p align="center">
-  <a href="https://github.com/kamalUpaDhyAy123/Spotify-Data-Analysis-Using-Python">
-    <img src="images/spotify_banner.png" alt="Spotify Banner" width="100%" />
-  </a>
+  <img src="" alt="Spotify Banner" width="100%" />
 </p>
 This project is an *Exploratory Data Analysis (EDA)* and *Data Visualization* of the Spotify dataset using Python.  
 It focuses on identifying trends and relationships between audio features of songs available on Spotify.
