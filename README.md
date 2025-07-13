@@ -56,7 +56,7 @@ Spotify is one of the world's largest audio streaming services. In this project:
 ---
 
 ### 🔸 Average Duration of Songs by Year  
-![Duration by Year]()
+![Duration by Year](https://github.com/kamalUpaDhyAy123/Spotify-Data-Analysis-Using-Python/blob/main/images/Screenshot%202025-07-10%20144439.png)
 
 ---
 
