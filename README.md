@@ -75,9 +75,8 @@ Spotify is one of the world's largest audio streaming services. In this project:
 ---
 
 ## 🔗 Useful Links
-
-- [Kaggle Notebook](#) (Add your link here)  
-- [Spotify Dataset on Kaggle](#) (Add dataset link)
+  
+- [Spotify Dataset on Kaggle](#) (https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db)
 
 ---
 
