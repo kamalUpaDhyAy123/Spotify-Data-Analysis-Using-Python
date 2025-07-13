@@ -36,7 +36,7 @@ Spotify is one of the world's largest audio streaming services. In this project:
 ## 📷 Visualizations
 
 ### 🔸 Correlation Heatmap Between Variables  
-![Correlation Heatmap](images/heatmap.png)
+![Correlation Heatmap](images/Screenshot 2025-07-10 144206.png)
 
 ---
 
