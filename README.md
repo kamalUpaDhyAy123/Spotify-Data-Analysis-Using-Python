@@ -1,69 +1,87 @@
-# Spotify-Data-Analysis-Using-Python
-Spotify Spotify Data Analysis using Python python
-I'm sharing an Exploratory Data Analysis (EDA) and Data Visualization of the data from Spotify using Python - A Data Analysis Project performed in my journey into Data Science.
+# 🎧 Spotify Data Analysis using Python
 
-About the Project
-Spotify is a Swedish audio streaming and media services provider founded in April 2006. It is the world's largest music streaming service provider and has over 381 million monthly active users, which also includes 172 million paid subscribers.
+This project is an *Exploratory Data Analysis (EDA)* and *Data Visualization* of the Spotify dataset using Python.  
+It focuses on identifying trends and relationships between audio features of songs available on Spotify.
 
-Spotify
+---
 
-Here, l have explored and quantified data about music and drawn valuable insights.
+## 📁 About the Project
 
-Conducted data cleaning to perform exploratory data analysis (EDA) and data visualization of the Spotify dataset using Python (Pandas, NumPy, Matplotlib and Seaborn).
+Spotify is one of the world's largest audio streaming services. In this project:
 
-Data analysis - Exploring the relationship between the audio features of a song and how positive or negative its lyrics are, involving sentiment analysisand manyuy more.
+- Cleaned and processed the Spotify dataset
+- Performed in-depth exploratory data analysis (EDA)
+- Built visual insights using Python libraries like Pandas, NumPy, Matplotlib, Seaborn
+- Investigated audio features such as energy, loudness, acousticness, valence, and duration
 
-Spotify Data Analysis makes use of secondary data from Spotify. Use data to identify patterns and relationships between different characteristics. The activity will support in developing ability to review and interpret a dataset.
+---
 
-Prerequisite: Data Analyst Roadmap ⌛ , Python Lessons 📑 & Python Libraries for Data Science 🗂️
+## 📌 Objectives
 
-Technologies used ⚙️
-Python python
+- Analyze correlation between audio features
+- Identify patterns in song loudness, energy, and popularity
+- Track song count trends over decades
+- Compare song duration across genres and years
 
-Statistics Statistics
+---
 
-Python Libraries :
-Pandas pandas | NumPy numpy | Matplotlib matplotlib | Seaborn Seaborn
-Certifications 📜 🎓 ✔️
-Data Analysis with Python - by IBM
+## ⚙ Technologies Used
 
-Data Visualization with Python - by IBM
+- *Languages*: Python 🐍
+- *Libraries*: Pandas, NumPy, Matplotlib, Seaborn
+- *Tools*: Jupyter Notebook, Kaggle
 
-Pandas - by Kaggle
+---
 
-Numpy & Matplotlib - by Great Learning
+## 📷 Visualizations
 
-Databases and SQL for Data Science with Python - by IBM
+### 🔸 Correlation Heatmap Between Variables  
+![Correlation Heatmap](images/heatmap.png)
 
-Statistics for Data Science with Python - by IBM
+---
 
-Project - Spotify Data Analysis using Python
-Kaggle Project: Spotify Data Analysis Spotify 🔗
+### 🔸 Loudness vs Energy Correlation  
+![Loudness vs Energy](images/loudness_vs_energy.png)
 
-Kaggle Spotify Datasets: Spotify Tracks & Spotify Features
+---
 
-Objective
-Top 10 most popular songs on Spotify
+### 🔸 Popularity vs Acousticness Correlation  
+![Popularity vs Acousticness](images/popularity_vs_acousticness.png)
 
-Top 10 least popular songs on Spotify
+---
 
-Correlation Heatmap between Variable
+### 🔸 Number of Songs Released Per Year  
+![Number of Songs per Year](images/songs_per_year.png)
 
-Spotify Data Analysis using Python
+---
 
-Regression plot - Correlation between Loudness and Energy
-Spotify Data Analysis using Python
+### 🔸 Average Duration of Songs by Year  
+![Duration by Year](images/duration_by_year.png)
 
-Regression plot - Correlation between Popularity and Acousticness
-Spotify Data Analysis using Python
+---
 
-Distibution plot - Visualize total number of songs on Spotify since 1992
-Spotify Data Analysis using Python
+### 🔸 Duration of Songs in Different Genres  
+![Genre Duration](images/duration_by_genre.png)
 
-Change in Duration of songs wrt Years
-Spotify Data Analysis using Python
+---
 
-Duration of songs in different Genres
+## 📜 Certifications
 
+- Data Analysis with Python - IBM  
+- Data Visualization with Python - IBM  
+- Databases & SQL for Data Science - IBM  
+- Statistics for Data Science with Python - IBM  
 
-Top 5 Genres by Popularity
+---
+
+## 🔗 Useful Links
+
+- [Kaggle Notebook](#) (Add your link here)  
+- [Spotify Dataset on Kaggle](#) (Add dataset link)
+
+---
+
+## 🏁 Conclusion
+
+This project helped in understanding how audio features vary across time, genres, and popularity.  
+It also gave hands-on practice with real-world datasets and Python-based data analysis.
