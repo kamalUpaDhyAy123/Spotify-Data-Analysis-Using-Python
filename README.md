@@ -66,7 +66,7 @@ Spotify is one of the world's largest audio streaming services. In this project:
 ---
 
 ### 🔸 Top 5 Genres by Average Popularity  
-![Top 5 Genres by Popularity]()
+![Top 5 Genres by Popularity](https://github.com/kamalUpaDhyAy123/Spotify-Data-Analysis-Using-Python/blob/main/images/Screenshot%202025-07-10%20144452.png)
 
 ## 📜 Certifications
 
