@@ -1,6 +1,6 @@
 # 🎧 Spotify Data Analysis using Python
 <p align="center">
-  <img src="images/spotify_banner.png" alt="images/Screenshot 2025-07-13 223239.png" width="100%" />
+  <img src="images/spotify_banner.png" alt="" width="100%" />
 </p>
 
 This project is an *Exploratory Data Analysis (EDA)* and *Data Visualization* of the Spotify dataset using Python.  
