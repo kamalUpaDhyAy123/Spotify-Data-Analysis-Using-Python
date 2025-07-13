@@ -51,7 +51,7 @@ Spotify is one of the world's largest audio streaming services. In this project:
 ---
 
 ### 🔸 Number of Songs Released Per Year  
-![Number of Songs per Year](images/songs_per_year.png)
+![Number of Songs per Year](https://github.com/kamalUpaDhyAy123/Spotify-Data-Analysis-Using-Python/blob/main/images/Screenshot%202025-07-10%20144356.png)
 
 ---
 
