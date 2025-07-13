@@ -61,7 +61,7 @@ Spotify is one of the world's largest audio streaming services. In this project:
 ---
 
 ### 🔸 Duration of Songs in Different Genres  
-![Genre Duration](images/duration_by_genre.png)
+![Genre Duration](https://github.com/kamalUpaDhyAy123/Spotify-Data-Analysis-Using-Python/blob/main/images/Screenshot%202025-07-10%20144452.png)
 
 ---
 
