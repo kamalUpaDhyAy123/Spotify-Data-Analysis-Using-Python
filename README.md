@@ -46,7 +46,7 @@ Spotify is one of the world's largest audio streaming services. In this project:
 ---
 
 ### 🔸 Popularity vs Acousticness Correlation  
-![Popularity vs Acousticness](images/popularity_vs_acousticness.png)
+![Popularity vs Acousticness](https://github.com/kamalUpaDhyAy123/Spotify-Data-Analysis-Using-Python/blob/main/images/Screenshot%202025-07-10%20144334.png)
 
 ---
 
