@@ -41,7 +41,7 @@ Spotify is one of the world's largest audio streaming services. In this project:
 ---
 
 ### 🔸 Loudness vs Energy Correlation  
-![Loudness vs Energy](images/loudness_vs_energy.png)
+![Loudness vs Energy](https://github.com/kamalUpaDhyAy123/Spotify-Data-Analysis-Using-Python/blob/main/images/Screenshot%202025-07-10%20144316.png)
 
 ---
 
