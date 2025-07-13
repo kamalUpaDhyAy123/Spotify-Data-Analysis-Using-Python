@@ -36,7 +36,7 @@ Spotify is one of the world's largest audio streaming services. In this project:
 ## 📷 Visualizations
 
 ### 🔸 Correlation Heatmap Between Variables  
-![Correlation Heatmap]()
+![Correlation Heatmap](https://github.com/kamalUpaDhyAy123/Spotify-Data-Analysis-Using-Python/blob/main/images/Screenshot%202025-07-10%20144206.png)
 
 ---
 
